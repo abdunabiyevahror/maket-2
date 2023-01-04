@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+body{
+   
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+    background-image: url(../img/sliced-pizza-vibrant-color-orange-background-172080059.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: rgb(0, 0, 0);
+}
+.title1{
+    margin-left: 600px;
+    color:  rgb(246, 255, 0);
+}
+.title2{
+    color:  rgb(246, 255, 0);
+      margin-left: 200px;
+}
+
+.select{
+    margin-left: 200px;
+}
+.second{
+    margin-left: 200px;
+    margin-top: 30px;
+    color:  rgb(246, 255, 0);
+    
+}
+ .btn1{
+    width: 100px;
+    height: 50px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+.third{
+      margin-left: 200px;
+    margin-top: 30px;
+     
+}
+.title4{
+    color:  rgb(246, 255, 0);
+}
+.fourth{
+        margin-left: 200px;
+    margin-top: 30px;
+   
+}
+.title5{
+    color:  rgb(246, 255, 0);
+} 
+ 
+.last-btn{
+    margin-left: 900px;
+    width: 300px;
+    height: 50px;
+    background-color: rgb(246, 255, 0);
+    
+}
+
+.inp1{
+    width: 50px;
+    height: 30px;
+
+}
+.inp2{
+    width: 50px;
+    height: 30px;
+
+}
+.inp3{
+    width: 50px;
+    height: 30px;
+
+}
+.inp4{
+    width: 50px;
+    height: 30px;
+
+}
+.inp5{
+    width: 50px;
+    height: 30px;
+
+}
+.inp6{
+    width: 50px;
+    height: 30px;
+
+}
+
+
+.inp7{
+    width: 50px;
+    height: 30px;
+
+}
+.inp8{
+    width: 50px;
+    height: 30px;
+
+}
+.h4-1{
+    margin-left: 900px;
+    color:   rgb(246, 255, 0);
+    font-weight:500;
+    font-size: 40px;
+}
+.ciziq{
+    width: 2.5px;
+    height: 550px;
+    background-color: red;
+    margin-left: 800px;
+}
+.sec_h4{
+    margin-left:710px ;
+    color:rgb(246, 255, 0) ;
+    font-weight: 300;
+     font-size: 30px;
+}
+h5{
+    margin-left:710px ;
+    color:rgb(246, 255, 0) ;
+    font-weight: 600;
+    font-size: 30px;
+}
